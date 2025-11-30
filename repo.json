@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "name": "NeoBot Official Script Repository",
+  "author": "NeoVoxelDev Team",
+  "description": "The official script repository for NeoBot, featuring a wide variety of high-quality scripts contributed by the community.",
+  "website": "https://github.com/NeoVoxelDev/NeoBotScriptsRepo",
+  "plugins": [
+    {
+      "name": "Default Scripts Collection",
+      "author": "NeoVoxelDev Team",
+      "version": "1.0.0",
+      "description": "A collection of default scripts included with NeoBot",
+      "type": "collection",
+      "download": "https://api.github.com/repos/NeoVoxelDev/NeoBotDefaultScripts/zipball/main"
+    }
+  ]
+}
